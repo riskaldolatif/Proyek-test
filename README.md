@@ -12,4 +12,7 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 streamlit run dashboard/dashboard.py
 ```
 
-##### [Run Dashboard App E-Commerce](https://)
+## [Run E-Commerce Dashboard App](https://)
+
+### Preview
+![Bike Sharing Dashboard Streamlit Preview](https://github.com/riskaldolatif/Proyek-test/blob/main/screencapture-dashboard.png)
